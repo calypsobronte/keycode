@@ -2,7 +2,6 @@ import { Selects } from "./components/Selects";
 
 const App = () => {
   return (
-    <>
       <div className="container h-5/6 w-full flex flex-col justify-center items-center rounded-md">
         <h1 className="text-6xl mb-5 text-slate">
         Aprendizaje <span className="text-sky">React</span>
@@ -12,7 +11,6 @@ const App = () => {
           <Selects />
         </div>
       </div>
-    </>
   );
 };
 

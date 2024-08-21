@@ -14,9 +14,9 @@ body {
   justify-content: center;
   height: 101vh;
   width: 100%;
+  background: rgba(238, 242, 255);
 }
 .container {
-  background: rgba(238, 242, 255);
   margin-left: auto;
   margin-right: auto;
   padding-left: 16px;
