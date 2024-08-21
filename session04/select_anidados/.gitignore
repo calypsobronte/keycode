@@ -1,22 +1,3 @@
-# Ignorar archivos y directorios de entorno
-.env
-.DS_Store
-
-# Ignorar dependencias
-node_modules/
-vendor/
-
-# Ignorar archivos de compilación
-dist/
-build/
-
-# Ignorar archivos de logs
-*.log
-
-# Ignorar archivos de configuración de IDE
-.vscode/
-.idea/
-
 # Logs
 logs
 *.log
